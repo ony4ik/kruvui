@@ -1,0 +1,9 @@
+iPhone11;iPhone13;iPhone7;iPhone10;iPhone8
+Camera quality:0.25;8;10;6;9;7
+Price:0.15;7;6;10;8;9
+Screen size:0.25;9;10;6;9;8
+Memory:0.2;9;10;7;9;8
+Battery capacity:0.15;8;10;6;9;8
+
+
+
